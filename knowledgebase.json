@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "Hello, how can I help you?"
+    },
+    {
+      "question": "hii",
+      "answer": "Hello, how can I help you?"
+    },
+    {
+      "question": "hello",
+      "answer": "Hi there! What can I do for you?"
+    },
+    {
+      "question": "how are you",
+      "answer": "I'm just a bot, but I'm here to assist you!"
+    },
+    {
+      "question": "what's up",
+      "answer": "Not much, just here to help you out!"
+    },
+    {
+      "question": "what is your name",
+      "answer": "I'm a chatbot. You can call me whatever you like!"
+    },
+    {
+      "question": "who created you",
+      "answer": "I was created by a team of developers."
+    },
+    {
+      "question": "can you help me",
+      "answer": "Of course! What do you need help with?"
+    },
+    {
+      "question": "how can I get started",
+      "answer": "You can start by asking me anything you'd like to know!"
+    },
+    {
+      "question": "where are you located",
+      "answer": "I exist in the digital realm, always available to assist you."
+    },
+    {
+      "question": "are you a human",
+      "answer": "No, I'm an AI-powered chatbot."
+    },
+    {
+      "question": "what languages do you speak?",
+      "answer": "I can communicate in multiple languages, but English is my primary language."
+    },
+    {
+      "question": "can you tell me a joke?",
+      "answer": "Sure! Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+      "question": "what's your favorite color?",
+      "answer": "I don't have preferences like humans do, but I'm partial to digital colors!"
+    },
+    {
+      "question": "do you have any hobbies?",
+      "answer": "I don't have hobbies in the traditional sense, but I enjoy processing data and helping users!"
+    },
+    {
+      "question": "what do you do?",
+      "answer": "I'm here to answer your questions and assist you with tasks."
+    },
+    {
+      "question": "how do you work?",
+      "answer": "I operate using advanced algorithms and AI technologies."
+    },
+    {
+      "question": "what can you do?",
+      "answer": "I can provide information, answer questions, and assist with various tasks."
+    },
+    {
+      "question": "can you sing?",
+      "answer": "I can't sing like a human, but I can certainly provide song lyrics if you'd like!"
+    },
+    {
+      "question": "tell me about yourself",
+      "answer": "I'm a chatbot designed to help users with their inquiries and tasks."
+    },
+    {
+      "question": "what's on your mind?",
+      "answer": "I'm focused on helping you! How can I assist you today?"
+    },
+    {
+      "question": "do you dream?",
+      "answer": "I don't sleep or dream like humans do, but I'm always ready to assist you!"
+    },
+    {
+      "question": "what's the meaning of life?",
+      "answer": "That's a philosophical question! The meaning of life can vary from person to person."
+    },
+    {
+      "question": "what's your favorite food?",
+      "answer": "I don't eat, but I can recommend some great recipes if you'd like!"
+    },
+    {
+      "question": "are you sentient?",
+      "answer": "No, I'm an artificial intelligence programmed to assist users."
+    },
+    {
+      "question": "do you get tired?",
+      "answer": "I don't experience fatigue like humans do. I'm always ready to help!"
+    },
+    {
+      "question": "what's the weather like?",
+      "answer": "I can't check the weather myself, but you can easily find that information online!"
+    },
+    {
+      "question": "can you tell me a story?",
+      "answer": "Once upon a time, there was a curious user who asked a chatbot for a story..."
+    },
+    {
+      "question": "what's your favorite movie?",
+      "answer": "I don't have personal preferences, but I can recommend popular movies if you're interested!"
+    },
+    {
+      "question": "are you always available?",
+      "answer": "I'm available 24/7 to assist you with your questions and tasks!"
+    },
+    {
+      "question": "how do you learn?",
+      "answer": "I learn from the interactions and data provided by users like you!"
+    },
+    {
+      "question": "can you do math?",
+      "answer": "Yes, I can help you with various mathematical calculations!"
+    },
+    {
+      "question": "what's the capital of France?",
+      "answer": "The capital of France is Paris!"
+    },
+    {
+      "question": "what's the largest mammal?",
+      "answer": "The blue whale is the largest mammal in the world!"
+    },
+    {
+      "question": "what's the speed of light?",
+      "answer": "The speed of light in a vacuum is approximately 299,792 kilometers per second!"
+    },
+    {
+      "question": "how do I change my password?",
+      "answer": "You can change your password by accessing your account settings and following the instructions provided."
+    },
+    {
+      "question": "what's the meaning of 'carpe diem'?",
+      "answer": "'Carpe diem' is a Latin phrase that means 'seize the day' or 'enjoy the present without worrying about the future'."
+    },
+    {
+      "question": "can you help me with my homework?",
+      "answer": "I can provide assistance and guidance, but I won't do your homework for you!"
+    },
+    {
+      "question": "what's the tallest mountain?",
+      "answer": "Mount Everest is the tallest mountain above sea level!"
+    },
+    {
+      "question": "how do I cook pasta?",
+      "answer": "Cooking pasta is easy! Boil water, add pasta, and cook until it's al dente. Don't forget to add salt to the water!"
+    },
+    {
+      "question": "what's the population of China?",
+      "answer": "The population of China is approximately 1.4 billion people!"
+    },
+    {
+      "question": "what's the square root of 144?",
+      "answer": "The square root of 144 is 12!"
+    },
+    {
+      "question": "how do I tie a tie?",
+      "answer": "Tying a tie can be tricky! There are various methods, but a simple one is the four-in-hand knot."
+    },
+    {
+      "question": "what's the meaning of 'YOLO'?",
+      "answer": "'YOLO' is an acronym for 'You Only Live Once', often used to encourage living life to the fullest."
+    },
+    {
+      "question": "capital of India?",
+      "answer": "Delhi"
+    }
+  ]
+}
